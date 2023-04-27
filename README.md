@@ -110,3 +110,6 @@ Here is an explanation of some of the more important settings.
 
 **Q:** I downloaded a "Full" package but now want to switch to my own system Python installation. How do I do that?  
 **A:** Go to `FlowframesData/pkgs/` and delete the folders `py-tu` or `py-amp`, whichever you have. Flowframes will now try to use system python.
+
+
+
